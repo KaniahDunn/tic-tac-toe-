@@ -1,0 +1,25 @@
+  body{
+    font-size: 10px;
+    text-align: center;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  table{
+    margin: auto;
+  }
+  th{
+    background-color:rgb(143, 45, 86);
+    height: 180px;
+    width: 180px;
+    font-size: 2.5rem;
+    border-radius: 5%;
+    color: white;
+  }
+  span{
+    font-size: 2rem;
+  }
+  th:hover{
+    background: rgb( 19, 111, 99);
+  }
+ 
