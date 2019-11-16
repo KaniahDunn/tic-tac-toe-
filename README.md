@@ -4,7 +4,7 @@
  
 ### Give it a try here: https://nervous-torvalds-e818d8.netlify.com/
 
-![alt-text](tic-tac-toe copy/tictactoe.png)
+![alt-text](tictactoe.png)
 
 ## Technologies Used: 
 - HTML 
