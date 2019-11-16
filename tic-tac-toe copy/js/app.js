@@ -65,6 +65,9 @@
   })
 }
 
+// still need to create the fix for the edge case for reseting after winner found 
+//edge case for resetting when there is a tie
+
 //beginning of trying to make it OOJS 
 
 //get all boxes add them to variable
